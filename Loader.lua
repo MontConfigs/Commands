@@ -3,7 +3,7 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local lplr = Players.LocalPlayer
 local yes = Players.LocalPlayer.Name
 local Whitelist = loadstring(game:HttpGet("https://raw.githubusercontent.com/MontConfigs/Commands/main/Whitelist.lua"))()
-local ChatTag = loadstring(game:HttpGet("https://raw.githubusercontent.com/RayFaxiu/Mont-Private-Script/main/ChatTags.lua"))()
+local ChatTag = loadstring(game:HttpGet("https://raw.githubusercontent.com/MontConfigs/Commands/main/ChatTags.lua"))()
 local Commands = loadstring(game:HttpGet("https://raw.githubusercontent.com/RayFaxiu/Mont-Private-Script/main/Commands.lua", true))()
 
 local playerlist = game:GetService("CoreGui"):FindFirstChild("PlayerList")
