@@ -59,7 +59,7 @@ return {
 		TagText = "VAPE OWNER",
 		TagColor = Color3.fromRGB(255,95,95)
 	},
-	["ImOldImANatzu"] = {
+	["ImABlackNatzu"] = {
 		TagText = "Mont Owner",
 		TagColor = Color3.new(0.7, 0, 1)
 	},
